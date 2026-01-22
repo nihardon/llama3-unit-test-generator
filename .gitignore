@@ -1,10 +1,4 @@
-*.gguf
-*.bin
-
 __pycache__/
+*.gguf
 *.pyc
-venv/
 .env
-.DS_Store
-
-llama.whl
